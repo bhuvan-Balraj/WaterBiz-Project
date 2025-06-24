@@ -1,0 +1,4 @@
+postgresql:
+
+postgres -superAdmin1234$
+wateradmin - admin1234$
