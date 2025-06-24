@@ -34,6 +34,9 @@ const Sidebar = () => {
         <Link to="/employees" className="block px-4 py-2 hover:bg-blue-700 rounded">
           🧑‍💼 {sidebarOpen && 'Employees'}
         </Link>
+        <Link to="/customer-products" className="block px-4 py-2 hover:bg-blue-700 rounded">
+          🛠️ {sidebarOpen && 'Customer Products'}
+        </Link>
       </nav>
     </div>
   );
